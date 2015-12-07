@@ -8,7 +8,6 @@
  *
  * @author Alex
  */
-package lab13;
 
 public class NoogieException extends Exception{
     
