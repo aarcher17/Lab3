@@ -4,7 +4,6 @@
  * and open the template in the editor.
  */
 
-package lab13;
 import java.util.*;
 
 public class CoogieException extends Exception {
