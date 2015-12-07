@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package lab04a;
+
 import java.util.Scanner;
 /**
  *
